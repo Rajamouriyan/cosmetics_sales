@@ -45,18 +45,18 @@ It integrates **Excel**, **SQL**, **Python**, and **Power BI** for end-to-end da
 ---
 
 ## 💡 Business Insights
-1. **USA and UK** generated over 60% of total global sales.  
-2. **Lipstick** and **Serum** were top-performing categories.  
-3. **Sales peaked in November–December**, suggesting seasonal demand.  
-4. **Emma Brown** led individual sales performance with $220K revenue.  
+1. **USA and UK** generated over 40% of total global sales.  
+2. **Tea Tree Moisturizer** and **Hydrating Face Serum** were top-performing categories.  
+3. **Sales peaked in March - May**, suggesting seasonal demand.  
+4. **Olivia D'Souza** led individual sales performance more than $350K revenue.  
 5. **Australia and New Zealand** show potential for marketing expansion.  
 
 ---
 
 ## 🚀 How to Use
 1. Clone this repository.  
-2. Open `analysis/cosmetics_sales_analysis.ipynb` for Python exploration.  
-3. Open `dashboard/Cosmetics_Sales_Dashboard.pbix` in Power BI Desktop.  
+2. Open `notebooks/cosmetics_sales_analysis.ipynb` for Python exploration.  
+3. Open `powerbi/Cosmetics_Sales_Dashboard.pbix` in Power BI Desktop.  
 4. Use slicers (Country, Month, Product) to interact with visuals.
 
 
