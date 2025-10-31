@@ -14,6 +14,6 @@
 - Lowest sales: January and February.
 - Suggests promotional focus in early Q1 to boost sales during March.
 
-  ### 4️⃣ Salesperson Performance
+### 4️⃣ Salesperson Performance
 - Olivia D'Souza and Sophia Nair are consistent top performers.
 - Opportunity: Incentivize underperforming reps with targeted goals.
