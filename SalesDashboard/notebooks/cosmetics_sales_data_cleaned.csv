@@ -1,0 +1,375 @@
+Sales_Person,Country,Product,Date,Amount_,Boxes_Shipped,Sales_per_box,Month
+Lucas Verma,Canada,Aloe Vera Gel,2022-04-30,7897,358, $22 ,2022-04
+Ethan Reddy,UK,Aloe Vera Gel,2022-01-25,16377,449, $36 ,2022-01
+Ananya Gupta,India,Body Butter Cream,2022-08-22,5600,264, $21 ,2022-08
+Ananya Gupta,New Zealand,Salicylic Acid Cleanser,2022-08-26,2966,144, $21 ,2022-08
+Sophia Nair,UK,Body Butter Cream,2022-05-19,6829,484, $14 ,2022-05
+Ananya Gupta,UK,Lip Balm Pack,2022-08-27,2556,192, $13 ,2022-08
+Ananya Gupta,New Zealand,Rose Water Toner,2022-04-29,833,19, $44 ,2022-04
+Sophia Nair,New Zealand,Tea Tree Moisturizer,2022-07-15,998,36, $28 ,2022-07
+Isabella Roy,New Zealand,Lip Balm Pack,2022-02-04,7754,466, $17 ,2022-02
+Noah Mehta,India,Aloe Vera Gel,2022-05-16,5507,176, $31 ,2022-05
+Olivia D'Souza,Australia,Body Butter Cream,2022-01-27,1120,87, $13 ,2022-01
+Sophia Nair,USA,Face Sheet Masks,2022-06-02,6854,384, $18 ,2022-06
+Ava Sharma,USA,Hair Repair Oil,2022-04-06,12148,254, $48 ,2022-04
+Lucas Verma,New Zealand,Aloe Vera Gel,2022-07-26,923,79, $12 ,2022-07
+Ava Sharma,Canada,Salicylic Acid Cleanser,2022-01-10,442,24, $18 ,2022-01
+Liam Patel,Canada,Aloe Vera Gel,2022-01-04,3900,83, $47 ,2022-01
+Ava Sharma,New Zealand,Body Butter Cream,2022-06-02,802,25, $32 ,2022-06
+Isabella Roy,India,Aloe Vera Gel,2022-03-03,10102,251, $40 ,2022-03
+Sophia Nair,Canada,Vitamin C Cream,2022-05-29,6600,417, $16 ,2022-05
+Lucas Verma,USA,Niacinamide Toner,2022-05-28,5303,258, $21 ,2022-05
+Noah Mehta,UK,Under Eye Cream,2022-08-02,6310,257, $25 ,2022-08
+Noah Mehta,Canada,Hydrating Face Serum,2022-07-17,2369,211, $11 ,2022-07
+Sophia Nair,UK,Aloe Vera Gel,2022-05-14,16419,358, $46 ,2022-05
+Olivia D'Souza,New Zealand,Vitamin C Cream,2022-01-15,10775,226, $48 ,2022-01
+Sophia Nair,Australia,Niacinamide Toner,2022-04-13,5958,162, $37 ,2022-04
+Olivia D'Souza,USA,Tea Tree Moisturizer,2022-07-22,1195,74, $16 ,2022-07
+Isabella Roy,Australia,Charcoal Face Wash,2022-04-11,315,18, $17 ,2022-04
+Mason Kapoor,Australia,Anti-Aging Serum,2022-06-18,1443,91, $16 ,2022-06
+Liam Patel,USA,Under Eye Cream,2022-06-12,2810,78, $36 ,2022-06
+Mason Kapoor,UK,Under Eye Cream,2022-01-13,1395,57, $24 ,2022-01
+Liam Patel,Australia,Niacinamide Toner,2022-04-02,8144,213, $38 ,2022-04
+Mason Kapoor,UK,Body Butter Cream,2022-07-10,12886,340, $38 ,2022-07
+Liam Patel,Canada,Lip Balm Pack,2022-08-03,16223,362, $45 ,2022-08
+Noah Mehta,UK,Face Sheet Masks,2022-03-18,8330,217, $38 ,2022-03
+Mason Kapoor,New Zealand,Rose Water Toner,2022-06-19,5384,290, $19 ,2022-06
+Ava Sharma,India,Hydrating Face Serum,2022-03-07,19594,450, $44 ,2022-03
+Ava Sharma,New Zealand,Vitamin C Cream,2022-05-27,12213,266, $46 ,2022-05
+Lucas Verma,UK,Hydrating Face Serum,2022-05-11,4243,357, $12 ,2022-05
+Mason Kapoor,Australia,Face Sheet Masks,2022-03-20,13379,498, $27 ,2022-03
+Lucas Verma,Australia,Tea Tree Moisturizer,2022-03-25,9354,246, $38 ,2022-03
+Ananya Gupta,New Zealand,Vitamin C Cream,2022-08-26,5033,147, $34 ,2022-08
+Mason Kapoor,UK,Lip Balm Pack,2022-01-09,3041,103, $30 ,2022-01
+Ananya Gupta,Canada,Hair Repair Oil,2022-03-25,3259,150, $22 ,2022-03
+Liam Patel,USA,Anti-Aging Serum,2022-05-17,10452,242, $43 ,2022-05
+Ethan Reddy,USA,Hydrating Face Serum,2022-05-29,8643,298, $29 ,2022-05
+Ananya Gupta,India,Rose Water Toner,2022-03-31,2524,102, $25 ,2022-03
+Ethan Reddy,Canada,Charcoal Face Wash,2022-05-07,11600,324, $36 ,2022-05
+Liam Patel,New Zealand,SPF 50 Sunscreen,2022-05-27,15607,331, $47 ,2022-05
+Mason Kapoor,New Zealand,Lip Balm Pack,2022-07-13,9584,312, $31 ,2022-07
+Noah Mehta,New Zealand,Tea Tree Moisturizer,2022-08-13,10193,373, $27 ,2022-08
+Olivia D'Souza,USA,Hydrating Face Serum,2022-05-02,21701,483, $45 ,2022-05
+Sophia Nair,India,Hair Repair Oil,2022-08-28,6497,366, $18 ,2022-08
+Ananya Gupta,New Zealand,Body Butter Cream,2022-02-02,16383,438, $37 ,2022-02
+Mason Kapoor,New Zealand,Body Butter Cream,2022-06-03,15834,361, $44 ,2022-06
+Noah Mehta,UK,Lip Balm Pack,2022-05-17,7501,489, $15 ,2022-05
+Noah Mehta,UK,Hydrating Face Serum,2022-06-24,922,29, $32 ,2022-06
+Ananya Gupta,India,Salicylic Acid Cleanser,2022-04-28,6141,213, $29 ,2022-04
+Noah Mehta,New Zealand,Rose Water Toner,2022-03-23,1746,156, $11 ,2022-03
+Liam Patel,New Zealand,Charcoal Face Wash,2022-03-25,7268,198, $37 ,2022-03
+Sophia Nair,UK,SPF 50 Sunscreen,2022-04-25,424,30, $14 ,2022-04
+Noah Mehta,New Zealand,Body Butter Cream,2022-04-08,10712,331, $32 ,2022-04
+Noah Mehta,USA,Vitamin C Cream,2022-03-23,8155,248, $33 ,2022-03
+Ava Sharma,New Zealand,Tea Tree Moisturizer,2022-07-25,5132,454, $11 ,2022-07
+Isabella Roy,India,Vitamin C Cream,2022-03-21,6538,264, $25 ,2022-03
+Ethan Reddy,USA,Rose Water Toner,2022-07-11,13626,406, $34 ,2022-07
+Isabella Roy,Australia,SPF 50 Sunscreen,2022-06-18,3344,244, $14 ,2022-06
+Sophia Nair,India,Aloe Vera Gel,2022-03-02,11456,325, $35 ,2022-03
+Ava Sharma,India,Hair Repair Oil,2022-04-19,8946,434, $21 ,2022-04
+Ananya Gupta,Australia,Hair Repair Oil,2022-01-16,15121,360, $42 ,2022-01
+Ethan Reddy,Canada,Under Eye Cream,2022-04-01,9373,274, $34 ,2022-04
+Ananya Gupta,UK,Hydrating Face Serum,2022-05-22,4531,107, $42 ,2022-05
+Noah Mehta,USA,Aloe Vera Gel,2022-01-13,16284,456, $36 ,2022-01
+Ava Sharma,Canada,Tea Tree Moisturizer,2022-01-24,10109,402, $25 ,2022-01
+Noah Mehta,UK,Body Butter Cream,2022-08-12,3801,202, $19 ,2022-08
+Liam Patel,USA,Anti-Aging Serum,2022-07-08,1308,51, $26 ,2022-07
+Noah Mehta,Canada,Face Sheet Masks,2022-07-09,13195,285, $46 ,2022-07
+Isabella Roy,Australia,Niacinamide Toner,2022-04-25,5223,152, $34 ,2022-04
+Olivia D'Souza,Canada,Salicylic Acid Cleanser,2022-08-30,6102,146, $42 ,2022-08
+Noah Mehta,Australia,Hydrating Face Serum,2022-06-29,8416,237, $36 ,2022-06
+Isabella Roy,Canada,Under Eye Cream,2022-05-22,8216,334, $25 ,2022-05
+Sophia Nair,Canada,SPF 50 Sunscreen,2022-03-29,6936,322, $22 ,2022-03
+Olivia D'Souza,New Zealand,Under Eye Cream,2022-03-04,2423,180, $13 ,2022-03
+Lucas Verma,USA,Anti-Aging Serum,2022-01-13,17090,366, $47 ,2022-01
+Ava Sharma,Canada,Hydrating Face Serum,2022-02-23,10497,324, $32 ,2022-02
+Sophia Nair,UK,Under Eye Cream,2022-08-29,570,14, $41 ,2022-08
+Olivia D'Souza,UK,Hydrating Face Serum,2022-03-15,4103,124, $33 ,2022-03
+Isabella Roy,Australia,SPF 50 Sunscreen,2022-08-26,891,73, $12 ,2022-08
+Isabella Roy,UK,Hydrating Face Serum,2022-01-18,14127,465, $30 ,2022-01
+Olivia D'Souza,USA,Aloe Vera Gel,2022-03-25,5150,218, $24 ,2022-03
+Noah Mehta,USA,Face Sheet Masks,2022-03-08,147,13, $11 ,2022-03
+Sophia Nair,New Zealand,Hair Repair Oil,2022-02-17,3813,118, $32 ,2022-02
+Mason Kapoor,USA,Niacinamide Toner,2022-07-23,9450,218, $43 ,2022-07
+Noah Mehta,UK,Face Sheet Masks,2022-02-14,6458,293, $22 ,2022-02
+Olivia D'Souza,UK,Under Eye Cream,2022-02-19,7926,309, $26 ,2022-02
+Lucas Verma,USA,Tea Tree Moisturizer,2022-04-13,16861,385, $44 ,2022-04
+Lucas Verma,New Zealand,Salicylic Acid Cleanser,2022-08-17,1651,72, $23 ,2022-08
+Ananya Gupta,Australia,Hair Repair Oil,2022-07-15,19862,424, $47 ,2022-07
+Isabella Roy,Canada,Body Butter Cream,2022-06-08,10647,234, $46 ,2022-06
+Olivia D'Souza,Australia,SPF 50 Sunscreen,2022-06-03,1565,49, $32 ,2022-06
+Liam Patel,India,Tea Tree Moisturizer,2022-01-10,2126,89, $24 ,2022-01
+Liam Patel,India,Niacinamide Toner,2022-04-09,2894,204, $14 ,2022-04
+Isabella Roy,Australia,Tea Tree Moisturizer,2022-04-17,13435,283, $47 ,2022-04
+Ethan Reddy,India,Lip Balm Pack,2022-07-05,8274,169, $49 ,2022-07
+Noah Mehta,UK,Charcoal Face Wash,2022-04-07,4064,149, $27 ,2022-04
+Olivia D'Souza,UK,Aloe Vera Gel,2022-08-06,6650,471, $14 ,2022-08
+Liam Patel,USA,Hydrating Face Serum,2022-02-08,4463,295, $15 ,2022-02
+Ava Sharma,USA,SPF 50 Sunscreen,2022-03-10,16996,471, $36 ,2022-03
+Olivia D'Souza,UK,Tea Tree Moisturizer,2022-08-30,4768,183, $26 ,2022-08
+Isabella Roy,Australia,Face Sheet Masks,2022-03-30,18046,401, $45 ,2022-03
+Mason Kapoor,USA,Aloe Vera Gel,2022-05-18,869,46, $19 ,2022-05
+Liam Patel,Australia,Charcoal Face Wash,2022-01-26,4760,96, $50 ,2022-01
+Isabella Roy,USA,Rose Water Toner,2022-03-22,19576,402, $49 ,2022-03
+Sophia Nair,USA,Lip Balm Pack,2022-06-20,4825,235, $21 ,2022-06
+Isabella Roy,Canada,Hair Repair Oil,2022-05-19,5556,150, $37 ,2022-05
+Lucas Verma,USA,Aloe Vera Gel,2022-01-28,6004,126, $48 ,2022-01
+Sophia Nair,USA,SPF 50 Sunscreen,2022-04-06,12370,456, $27 ,2022-04
+Noah Mehta,UK,Lip Balm Pack,2022-05-23,862,29, $30 ,2022-05
+Ava Sharma,Australia,Vitamin C Cream,2022-03-11,6048,360, $17 ,2022-03
+Sophia Nair,India,Body Butter Cream,2022-06-02,15052,418, $36 ,2022-06
+Mason Kapoor,UK,Under Eye Cream,2022-05-18,757,24, $32 ,2022-05
+Isabella Roy,Canada,Salicylic Acid Cleanser,2022-06-22,535,22, $24 ,2022-06
+Ava Sharma,Canada,Aloe Vera Gel,2022-04-11,12425,360, $35 ,2022-04
+Liam Patel,India,Face Sheet Masks,2022-05-18,15136,354, $43 ,2022-05
+Liam Patel,UK,Face Sheet Masks,2022-03-28,580,31, $19 ,2022-03
+Ananya Gupta,India,Charcoal Face Wash,2022-08-30,5805,119, $49 ,2022-08
+Noah Mehta,New Zealand,Face Sheet Masks,2022-01-30,23152,487, $48 ,2022-01
+Mason Kapoor,Canada,SPF 50 Sunscreen,2022-08-19,6174,232, $27 ,2022-08
+Lucas Verma,India,Tea Tree Moisturizer,2022-07-07,16620,425, $39 ,2022-07
+Lucas Verma,New Zealand,Face Sheet Masks,2022-06-10,3214,161, $20 ,2022-06
+Mason Kapoor,Australia,Vitamin C Cream,2022-08-13,16037,475, $34 ,2022-08
+Lucas Verma,USA,Charcoal Face Wash,2022-03-30,6456,299, $22 ,2022-03
+Isabella Roy,New Zealand,SPF 50 Sunscreen,2022-03-15,20660,478, $43 ,2022-03
+Olivia D'Souza,Canada,Under Eye Cream,2022-04-19,19030,434, $44 ,2022-04
+Noah Mehta,India,Hair Repair Oil,2022-05-07,5043,140, $36 ,2022-05
+Sophia Nair,UK,SPF 50 Sunscreen,2022-02-11,15274,350, $44 ,2022-02
+Mason Kapoor,USA,Charcoal Face Wash,2022-03-16,13935,498, $28 ,2022-03
+Lucas Verma,Australia,SPF 50 Sunscreen,2022-08-13,859,73, $12 ,2022-08
+Ananya Gupta,India,Hair Repair Oil,2022-05-01,10382,390, $27 ,2022-05
+Olivia D'Souza,USA,Hair Repair Oil,2022-01-27,7825,499, $16 ,2022-01
+Mason Kapoor,Canada,Anti-Aging Serum,2022-05-19,329,16, $21 ,2022-05
+Isabella Roy,Australia,Rose Water Toner,2022-07-04,7014,191, $37 ,2022-07
+Olivia D'Souza,India,Anti-Aging Serum,2022-01-02,9390,433, $22 ,2022-01
+Noah Mehta,New Zealand,SPF 50 Sunscreen,2022-08-26,3368,279, $12 ,2022-08
+Olivia D'Souza,Australia,Aloe Vera Gel,2022-07-31,2200,152, $14 ,2022-07
+Sophia Nair,New Zealand,Face Sheet Masks,2022-06-11,382,23, $17 ,2022-06
+Lucas Verma,USA,Body Butter Cream,2022-02-26,16452,440, $37 ,2022-02
+Noah Mehta,India,Lip Balm Pack,2022-07-02,7364,306, $24 ,2022-07
+Olivia D'Souza,USA,Face Sheet Masks,2022-06-01,11032,300, $37 ,2022-06
+Ethan Reddy,India,Vitamin C Cream,2022-02-24,715,37, $19 ,2022-02
+Ananya Gupta,Canada,Salicylic Acid Cleanser,2022-03-01,5699,197, $29 ,2022-03
+Ava Sharma,India,SPF 50 Sunscreen,2022-02-16,7525,189, $40 ,2022-02
+Sophia Nair,Australia,Hair Repair Oil,2022-01-01,10003,253, $40 ,2022-01
+Liam Patel,New Zealand,Hair Repair Oil,2022-05-29,3812,85, $45 ,2022-05
+Lucas Verma,Australia,Charcoal Face Wash,2022-08-03,6718,354, $19 ,2022-08
+Ananya Gupta,Australia,Tea Tree Moisturizer,2022-05-09,8326,167, $50 ,2022-05
+Isabella Roy,New Zealand,Salicylic Acid Cleanser,2022-01-31,5178,120, $43 ,2022-01
+Ava Sharma,India,Body Butter Cream,2022-07-02,12189,362, $34 ,2022-07
+Olivia D'Souza,India,Hair Repair Oil,2022-07-23,1225,80, $15 ,2022-07
+Liam Patel,UK,Tea Tree Moisturizer,2022-04-28,16192,422, $38 ,2022-04
+Olivia D'Souza,New Zealand,Lip Balm Pack,2022-05-01,10095,364, $28 ,2022-05
+Ava Sharma,USA,Lip Balm Pack,2022-03-24,8902,335, $27 ,2022-03
+Ethan Reddy,India,Under Eye Cream,2022-08-20,1761,138, $13 ,2022-08
+Ava Sharma,UK,Rose Water Toner,2022-05-02,15190,308, $49 ,2022-05
+Ananya Gupta,USA,Anti-Aging Serum,2022-01-27,7077,189, $37 ,2022-01
+Sophia Nair,Australia,Tea Tree Moisturizer,2022-06-21,16495,424, $39 ,2022-06
+Noah Mehta,UK,Vitamin C Cream,2022-02-27,6531,215, $30 ,2022-02
+Noah Mehta,Australia,Under Eye Cream,2022-06-05,12916,388, $33 ,2022-06
+Isabella Roy,Canada,Hydrating Face Serum,2022-08-06,16425,375, $44 ,2022-08
+Olivia D'Souza,Australia,Hair Repair Oil,2022-06-12,6775,352, $19 ,2022-06
+Lucas Verma,Canada,Lip Balm Pack,2022-03-24,4554,237, $19 ,2022-03
+Liam Patel,USA,Anti-Aging Serum,2022-04-17,20895,482, $43 ,2022-04
+Sophia Nair,UK,Hydrating Face Serum,2022-07-16,14822,318, $47 ,2022-07
+Ethan Reddy,New Zealand,Rose Water Toner,2022-03-27,3429,225, $15 ,2022-03
+Mason Kapoor,USA,Hydrating Face Serum,2022-06-10,2925,224, $13 ,2022-06
+Lucas Verma,Canada,Tea Tree Moisturizer,2022-01-10,19444,452, $43 ,2022-01
+Ethan Reddy,UK,Hair Repair Oil,2022-03-09,8591,176, $49 ,2022-03
+Lucas Verma,UK,Body Butter Cream,2022-04-30,2289,167, $14 ,2022-04
+Ananya Gupta,UK,Hydrating Face Serum,2022-06-01,6384,265, $24 ,2022-06
+Lucas Verma,USA,Hydrating Face Serum,2022-01-10,2748,115, $24 ,2022-01
+Liam Patel,Australia,Aloe Vera Gel,2022-04-27,6325,296, $21 ,2022-04
+Liam Patel,USA,Anti-Aging Serum,2022-01-19,4592,155, $30 ,2022-01
+Olivia D'Souza,UK,Tea Tree Moisturizer,2022-05-29,5017,164, $31 ,2022-05
+Ethan Reddy,USA,Anti-Aging Serum,2022-03-19,637,43, $15 ,2022-03
+Liam Patel,India,Vitamin C Cream,2022-03-28,2949,189, $16 ,2022-03
+Ethan Reddy,Canada,Under Eye Cream,2022-04-19,19971,463, $43 ,2022-04
+Ava Sharma,Australia,Salicylic Acid Cleanser,2022-06-18,8218,439, $19 ,2022-06
+Ethan Reddy,Canada,Niacinamide Toner,2022-07-21,4964,225, $22 ,2022-07
+Ethan Reddy,Australia,Tea Tree Moisturizer,2022-02-21,7882,253, $31 ,2022-02
+Isabella Roy,India,Salicylic Acid Cleanser,2022-08-28,15268,321, $48 ,2022-08
+Isabella Roy,USA,Hair Repair Oil,2022-04-02,16344,485, $34 ,2022-04
+Sophia Nair,USA,Niacinamide Toner,2022-01-06,10905,236, $46 ,2022-01
+Ethan Reddy,USA,Under Eye Cream,2022-07-16,3205,81, $40 ,2022-07
+Olivia D'Souza,New Zealand,Under Eye Cream,2022-01-18,5771,140, $41 ,2022-01
+Mason Kapoor,Australia,Charcoal Face Wash,2022-03-24,3977,80, $50 ,2022-03
+Noah Mehta,New Zealand,Salicylic Acid Cleanser,2022-02-21,8920,363, $25 ,2022-02
+Mason Kapoor,UK,Vitamin C Cream,2022-04-06,23284,499, $47 ,2022-04
+Isabella Roy,Australia,Face Sheet Masks,2022-04-27,4260,103, $41 ,2022-04
+Ava Sharma,India,Rose Water Toner,2022-03-14,7571,159, $48 ,2022-03
+Ethan Reddy,Australia,Body Butter Cream,2022-03-31,18742,469, $40 ,2022-03
+Mason Kapoor,UK,Anti-Aging Serum,2022-07-07,8788,249, $35 ,2022-07
+Lucas Verma,New Zealand,Under Eye Cream,2022-07-01,16254,423, $38 ,2022-07
+Lucas Verma,India,Aloe Vera Gel,2022-05-06,10790,436, $25 ,2022-05
+Olivia D'Souza,Canada,Under Eye Cream,2022-03-20,842,27, $31 ,2022-03
+Lucas Verma,UK,Under Eye Cream,2022-01-30,5926,152, $39 ,2022-01
+Ava Sharma,Australia,Anti-Aging Serum,2022-06-02,7067,221, $32 ,2022-06
+Olivia D'Souza,New Zealand,Body Butter Cream,2022-04-01,11533,427, $27 ,2022-04
+Ava Sharma,Australia,Tea Tree Moisturizer,2022-06-10,6391,146, $44 ,2022-06
+Sophia Nair,USA,Face Sheet Masks,2022-06-09,444,15, $30 ,2022-06
+Ava Sharma,New Zealand,SPF 50 Sunscreen,2022-06-15,7220,171, $42 ,2022-06
+Noah Mehta,Canada,SPF 50 Sunscreen,2022-02-24,3491,120, $29 ,2022-02
+Mason Kapoor,Canada,Tea Tree Moisturizer,2022-08-12,7408,168, $44 ,2022-08
+Noah Mehta,Canada,Rose Water Toner,2022-07-31,4112,175, $23 ,2022-07
+Ananya Gupta,India,Tea Tree Moisturizer,2022-03-28,3824,269, $14 ,2022-03
+Mason Kapoor,Australia,Lip Balm Pack,2022-07-06,4543,186, $24 ,2022-07
+Noah Mehta,UK,Hydrating Face Serum,2022-04-29,527,11, $48 ,2022-04
+Liam Patel,USA,Anti-Aging Serum,2022-02-22,4014,124, $32 ,2022-02
+Ava Sharma,Australia,Niacinamide Toner,2022-01-12,594,38, $16 ,2022-01
+Ethan Reddy,UK,SPF 50 Sunscreen,2022-01-08,4318,175, $25 ,2022-01
+Sophia Nair,USA,Salicylic Acid Cleanser,2022-05-15,5294,144, $37 ,2022-05
+Noah Mehta,USA,Under Eye Cream,2022-01-24,3165,181, $17 ,2022-01
+Ethan Reddy,USA,Aloe Vera Gel,2022-04-24,5212,224, $23 ,2022-04
+Ananya Gupta,UK,Tea Tree Moisturizer,2022-06-12,4321,211, $20 ,2022-06
+Ananya Gupta,UK,Anti-Aging Serum,2022-08-27,434,16, $27 ,2022-08
+Ava Sharma,USA,Rose Water Toner,2022-02-22,15708,486, $32 ,2022-02
+Noah Mehta,New Zealand,Hair Repair Oil,2022-05-26,412,16, $26 ,2022-05
+Liam Patel,Australia,Face Sheet Masks,2022-07-30,2125,101, $21 ,2022-07
+Noah Mehta,Australia,Vitamin C Cream,2022-01-12,985,32, $31 ,2022-01
+Ananya Gupta,New Zealand,Hydrating Face Serum,2022-04-26,13049,327, $40 ,2022-04
+Olivia D'Souza,India,Body Butter Cream,2022-06-29,956,21, $46 ,2022-06
+Ananya Gupta,New Zealand,SPF 50 Sunscreen,2022-04-15,5712,337, $17 ,2022-04
+Isabella Roy,India,Niacinamide Toner,2022-04-28,6986,410, $17 ,2022-04
+Ethan Reddy,USA,Niacinamide Toner,2022-08-10,10123,236, $43 ,2022-08
+Olivia D'Souza,USA,Lip Balm Pack,2022-01-22,4747,321, $15 ,2022-01
+Ava Sharma,UK,Hydrating Face Serum,2022-03-19,366,18, $20 ,2022-03
+Sophia Nair,New Zealand,Face Sheet Masks,2022-08-15,9791,385, $25 ,2022-08
+Lucas Verma,USA,Vitamin C Cream,2022-01-23,6966,364, $19 ,2022-01
+Noah Mehta,USA,Tea Tree Moisturizer,2022-01-20,14282,458, $31 ,2022-01
+Isabella Roy,Canada,Vitamin C Cream,2022-08-24,2736,73, $37 ,2022-08
+Ethan Reddy,Canada,Hydrating Face Serum,2022-02-17,5504,338, $16 ,2022-02
+Ananya Gupta,UK,Hydrating Face Serum,2022-05-04,10873,351, $31 ,2022-05
+Ananya Gupta,Australia,Aloe Vera Gel,2022-01-06,4159,286, $15 ,2022-01
+Ethan Reddy,Australia,Hair Repair Oil,2022-04-15,23977,481, $50 ,2022-04
+Liam Patel,New Zealand,Charcoal Face Wash,2022-08-25,5031,161, $31 ,2022-08
+Noah Mehta,Canada,Vitamin C Cream,2022-05-31,7460,356, $21 ,2022-05
+Ethan Reddy,USA,Niacinamide Toner,2022-07-08,6613,186, $36 ,2022-07
+Ethan Reddy,New Zealand,Lip Balm Pack,2022-04-30,709,36, $20 ,2022-04
+Isabella Roy,New Zealand,Hydrating Face Serum,2022-06-16,10445,306, $34 ,2022-06
+Sophia Nair,Australia,Vitamin C Cream,2022-04-11,5798,254, $23 ,2022-04
+Sophia Nair,India,Anti-Aging Serum,2022-03-19,10474,441, $24 ,2022-03
+Isabella Roy,Canada,Hair Repair Oil,2022-07-15,1373,33, $42 ,2022-07
+Isabella Roy,New Zealand,SPF 50 Sunscreen,2022-03-03,11415,333, $34 ,2022-03
+Noah Mehta,India,Vitamin C Cream,2022-05-16,631,41, $15 ,2022-05
+Lucas Verma,Australia,Anti-Aging Serum,2022-03-30,6093,357, $17 ,2022-03
+Olivia D'Souza,Australia,Hair Repair Oil,2022-04-13,3336,270, $12 ,2022-04
+Isabella Roy,USA,Lip Balm Pack,2022-06-11,15130,384, $39 ,2022-06
+Liam Patel,Australia,Charcoal Face Wash,2022-03-05,3322,145, $23 ,2022-03
+Sophia Nair,New Zealand,Aloe Vera Gel,2022-08-16,2336,119, $20 ,2022-08
+Noah Mehta,USA,Hydrating Face Serum,2022-04-15,19444,420, $46 ,2022-04
+Olivia D'Souza,Canada,Tea Tree Moisturizer,2022-01-31,4535,161, $28 ,2022-01
+Ananya Gupta,UK,Hydrating Face Serum,2022-08-24,1027,69, $15 ,2022-08
+Ethan Reddy,India,Hair Repair Oil,2022-03-15,2883,66, $44 ,2022-03
+Mason Kapoor,New Zealand,Charcoal Face Wash,2022-01-08,2594,66, $39 ,2022-01
+Mason Kapoor,UK,Hydrating Face Serum,2022-04-03,5803,433, $13 ,2022-04
+Ethan Reddy,Australia,Hydrating Face Serum,2022-05-18,11992,257, $47 ,2022-05
+Ananya Gupta,USA,Hair Repair Oil,2022-02-07,353,30, $12 ,2022-02
+Ava Sharma,New Zealand,Tea Tree Moisturizer,2022-05-28,7024,190, $37 ,2022-05
+Sophia Nair,New Zealand,Hair Repair Oil,2022-05-31,2885,118, $24 ,2022-05
+Ananya Gupta,USA,Face Sheet Masks,2022-06-26,5023,154, $33 ,2022-06
+Ananya Gupta,New Zealand,Lip Balm Pack,2022-08-18,5251,299, $18 ,2022-08
+Ethan Reddy,USA,Niacinamide Toner,2022-05-09,2584,108, $24 ,2022-05
+Mason Kapoor,USA,Vitamin C Cream,2022-07-13,8581,190, $45 ,2022-07
+Sophia Nair,New Zealand,Lip Balm Pack,2022-06-03,560,12, $47 ,2022-06
+Olivia D'Souza,India,Face Sheet Masks,2022-06-07,12905,498, $26 ,2022-06
+Sophia Nair,USA,Hair Repair Oil,2022-06-24,13509,296, $46 ,2022-06
+Ananya Gupta,India,Salicylic Acid Cleanser,2022-05-29,3117,148, $21 ,2022-05
+Isabella Roy,USA,Anti-Aging Serum,2022-06-05,1123,56, $20 ,2022-06
+Ethan Reddy,USA,Niacinamide Toner,2022-03-30,18189,495, $37 ,2022-03
+Mason Kapoor,USA,Rose Water Toner,2022-01-25,8485,317, $27 ,2022-01
+Sophia Nair,New Zealand,Aloe Vera Gel,2022-07-22,6694,476, $14 ,2022-07
+Noah Mehta,New Zealand,Body Butter Cream,2022-06-27,9683,394, $25 ,2022-06
+Isabella Roy,Australia,Anti-Aging Serum,2022-01-19,3242,232, $14 ,2022-01
+Liam Patel,India,Tea Tree Moisturizer,2022-03-29,10885,233, $47 ,2022-03
+Olivia D'Souza,USA,Anti-Aging Serum,2022-06-24,4934,194, $25 ,2022-06
+Ethan Reddy,New Zealand,Anti-Aging Serum,2022-03-24,21727,436, $50 ,2022-03
+Ethan Reddy,New Zealand,Body Butter Cream,2022-04-18,5874,355, $17 ,2022-04
+Ananya Gupta,Canada,Salicylic Acid Cleanser,2022-07-10,9561,268, $36 ,2022-07
+Ananya Gupta,Australia,Charcoal Face Wash,2022-02-26,3463,74, $47 ,2022-02
+Isabella Roy,USA,Charcoal Face Wash,2022-06-23,136,11, $12 ,2022-06
+Olivia D'Souza,Australia,Lip Balm Pack,2022-05-21,3525,215, $16 ,2022-05
+Olivia D'Souza,Australia,Charcoal Face Wash,2022-04-08,4819,332, $15 ,2022-04
+Liam Patel,Canada,Niacinamide Toner,2022-08-21,5662,136, $42 ,2022-08
+Isabella Roy,Australia,Vitamin C Cream,2022-01-28,981,39, $25 ,2022-01
+Lucas Verma,Australia,Charcoal Face Wash,2022-08-05,1431,38, $38 ,2022-08
+Noah Mehta,India,Niacinamide Toner,2022-07-27,1178,40, $29 ,2022-07
+Lucas Verma,New Zealand,Body Butter Cream,2022-02-18,9645,286, $34 ,2022-02
+Mason Kapoor,New Zealand,Hydrating Face Serum,2022-02-11,3703,141, $26 ,2022-02
+Ava Sharma,New Zealand,SPF 50 Sunscreen,2022-02-28,10466,393, $27 ,2022-02
+Sophia Nair,India,Vitamin C Cream,2022-03-27,11297,314, $36 ,2022-03
+Ananya Gupta,USA,Anti-Aging Serum,2022-07-26,9203,400, $23 ,2022-07
+Lucas Verma,India,Face Sheet Masks,2022-07-07,10092,239, $42 ,2022-07
+Ethan Reddy,New Zealand,Hair Repair Oil,2022-07-11,2395,84, $29 ,2022-07
+Ethan Reddy,Australia,Vitamin C Cream,2022-01-31,4157,264, $16 ,2022-01
+Mason Kapoor,Australia,Tea Tree Moisturizer,2022-06-28,3986,140, $28 ,2022-06
+Sophia Nair,New Zealand,Lip Balm Pack,2022-06-03,16046,477, $34 ,2022-06
+Ethan Reddy,New Zealand,Aloe Vera Gel,2022-01-27,5616,246, $23 ,2022-01
+Isabella Roy,India,Under Eye Cream,2022-08-11,1741,42, $41 ,2022-08
+Mason Kapoor,Australia,Niacinamide Toner,2022-07-27,4344,109, $40 ,2022-07
+Liam Patel,USA,Body Butter Cream,2022-03-09,8483,342, $25 ,2022-03
+Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,2022-05-06,723,27, $27 ,2022-05
+Lucas Verma,UK,Salicylic Acid Cleanser,2022-01-20,4476,343, $13 ,2022-01
+Sophia Nair,New Zealand,SPF 50 Sunscreen,2022-05-09,13450,299, $45 ,2022-05
+Ananya Gupta,New Zealand,Niacinamide Toner,2022-07-27,13220,305, $43 ,2022-07
+Olivia D'Souza,Australia,SPF 50 Sunscreen,2022-06-03,16988,411, $41 ,2022-06
+Ananya Gupta,Australia,Lip Balm Pack,2022-07-10,9086,237, $38 ,2022-07
+Olivia D'Souza,USA,Anti-Aging Serum,2022-06-27,11544,423, $27 ,2022-06
+Olivia D'Souza,USA,Vitamin C Cream,2022-04-23,12588,297, $42 ,2022-04
+Liam Patel,Canada,Salicylic Acid Cleanser,2022-04-17,12203,321, $38 ,2022-04
+Ava Sharma,UK,SPF 50 Sunscreen,2022-01-23,6320,366, $17 ,2022-01
+Olivia D'Souza,New Zealand,Under Eye Cream,2022-02-18,16903,472, $36 ,2022-02
+Liam Patel,India,Tea Tree Moisturizer,2022-08-03,5409,412, $13 ,2022-08
+Ananya Gupta,New Zealand,Face Sheet Masks,2022-05-02,11725,314, $37 ,2022-05
+Liam Patel,Canada,Tea Tree Moisturizer,2022-04-22,9670,376, $26 ,2022-04
+Ananya Gupta,New Zealand,Vitamin C Cream,2022-01-03,2875,201, $14 ,2022-01
+Sophia Nair,India,Anti-Aging Serum,2022-03-11,14215,447, $32 ,2022-03
+Mason Kapoor,India,Body Butter Cream,2022-03-05,1196,29, $41 ,2022-03
+Olivia D'Souza,Australia,Under Eye Cream,2022-05-04,16376,491, $33 ,2022-05
+Ethan Reddy,New Zealand,Aloe Vera Gel,2022-03-24,8190,240, $34 ,2022-03
+Ethan Reddy,New Zealand,Under Eye Cream,2022-05-24,19125,488, $39 ,2022-05
+Lucas Verma,Australia,Hair Repair Oil,2022-04-15,586,20, $29 ,2022-04
+Lucas Verma,UK,Aloe Vera Gel,2022-03-26,20317,485, $42 ,2022-03
+Mason Kapoor,New Zealand,Rose Water Toner,2022-08-07,9887,320, $31 ,2022-08
+Sophia Nair,Canada,Anti-Aging Serum,2022-07-31,8194,276, $30 ,2022-07
+Isabella Roy,Australia,Under Eye Cream,2022-03-26,7472,491, $15 ,2022-03
+Sophia Nair,UK,SPF 50 Sunscreen,2022-06-02,7060,142, $50 ,2022-06
+Olivia D'Souza,UK,Salicylic Acid Cleanser,2022-06-02,13054,282, $46 ,2022-06
+Mason Kapoor,USA,Anti-Aging Serum,2022-04-29,8399,181, $46 ,2022-04
+Olivia D'Souza,UK,Hydrating Face Serum,2022-03-11,7991,199, $40 ,2022-03
+Olivia D'Souza,Australia,Aloe Vera Gel,2022-07-25,11098,225, $49 ,2022-07
+Lucas Verma,Australia,Body Butter Cream,2022-05-03,19951,426, $47 ,2022-05
+Lucas Verma,Australia,Hydrating Face Serum,2022-01-08,120,10, $12 ,2022-01
+Sophia Nair,USA,Anti-Aging Serum,2022-01-02,12552,377, $33 ,2022-01
+Noah Mehta,USA,Rose Water Toner,2022-07-29,7718,265, $29 ,2022-07
+Ananya Gupta,New Zealand,Body Butter Cream,2022-07-29,6265,163, $38 ,2022-07
+Ethan Reddy,Australia,Niacinamide Toner,2022-01-06,1617,69, $23 ,2022-01
+Isabella Roy,India,Charcoal Face Wash,2022-03-26,2631,64, $41 ,2022-03
+Olivia D'Souza,USA,SPF 50 Sunscreen,2022-08-28,5025,251, $20 ,2022-08
+Lucas Verma,Canada,Hair Repair Oil,2022-01-27,19587,451, $43 ,2022-01
+Lucas Verma,Canada,Under Eye Cream,2022-07-11,1905,40, $48 ,2022-07
+Mason Kapoor,India,Anti-Aging Serum,2022-04-12,5032,474, $11 ,2022-04
+Isabella Roy,UK,Tea Tree Moisturizer,2022-04-19,7678,236, $33 ,2022-04
+Olivia D'Souza,UK,Vitamin C Cream,2022-02-10,20181,409, $49 ,2022-02
+Olivia D'Souza,Canada,Anti-Aging Serum,2022-01-04,8709,178, $49 ,2022-01
+Liam Patel,UK,Face Sheet Masks,2022-08-01,18764,444, $42 ,2022-08
+Lucas Verma,Australia,Hair Repair Oil,2022-03-20,11343,269, $42 ,2022-03
+Liam Patel,UK,Vitamin C Cream,2022-06-13,4905,248, $20 ,2022-06
+Ava Sharma,USA,Charcoal Face Wash,2022-03-17,10072,204, $49 ,2022-03
+Sophia Nair,Canada,Hair Repair Oil,2022-07-31,5026,133, $38 ,2022-07
+Olivia D'Souza,New Zealand,Charcoal Face Wash,2022-08-30,1275,81, $16 ,2022-08
+Noah Mehta,USA,Face Sheet Masks,2022-04-05,2848,193, $15 ,2022-04
+Isabella Roy,Australia,Rose Water Toner,2022-06-19,5431,152, $36 ,2022-06
+Olivia D'Souza,UK,Rose Water Toner,2022-06-21,23091,482, $48 ,2022-06
+Ananya Gupta,Australia,Anti-Aging Serum,2022-06-11,13290,273, $49 ,2022-06
+Isabella Roy,Canada,SPF 50 Sunscreen,2022-04-02,14114,422, $33 ,2022-04
+Liam Patel,Australia,Charcoal Face Wash,2022-03-14,3065,251, $12 ,2022-03
+Noah Mehta,UK,Lip Balm Pack,2022-07-03,13987,372, $38 ,2022-07
+Olivia D'Souza,UK,Niacinamide Toner,2022-07-18,17890,457, $39 ,2022-07
+Ananya Gupta,UK,Tea Tree Moisturizer,2022-08-01,11346,487, $23 ,2022-08
+Liam Patel,USA,Under Eye Cream,2022-05-05,3796,206, $18 ,2022-05
+Lucas Verma,USA,SPF 50 Sunscreen,2022-07-26,1005,21, $48 ,2022-07
+Liam Patel,Australia,Vitamin C Cream,2022-05-30,5576,371, $15 ,2022-05
+Ananya Gupta,New Zealand,Hydrating Face Serum,2022-05-07,12563,420, $30 ,2022-05
+Ananya Gupta,USA,Lip Balm Pack,2022-06-21,4983,143, $35 ,2022-06
+Sophia Nair,New Zealand,Salicylic Acid Cleanser,2022-08-16,782,19, $41 ,2022-08
+Liam Patel,UK,Vitamin C Cream,2022-08-17,17615,386, $46 ,2022-08

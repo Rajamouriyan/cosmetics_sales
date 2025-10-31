@@ -1,0 +1,16 @@
+📌 Suggested Projects & Questions
+Which salesperson generated the highest revenue overall?
+What’s the average amount per order in each country?
+Which product was most frequently sold?
+What month had the highest total boxes shipped?
+Create a dashboard comparing revenue across countries.
+
+
+✅ Clean Data Guarantee
+✅ No missing/null values
+✅ No duplicates
+✅ Realistic values
+✅ Globally relatable product categories
+✅ Ready for ML, BI, and teaching use cases
+
+https://www.kaggle.com/datasets/atharvasoundankar/cosmetics-and-skincare-product-sales-data-2022?resource=download
